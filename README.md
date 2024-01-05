@@ -8,12 +8,12 @@ Attacks in Three-Tier Federated Learning Systems"]
 
 
 # Quick Start: 
-To run label flipping attack:
-python Hier-Local-QSGD.py --dataset cifar10 --num_communication 100 --model cnn_complex --num_clients 150 --num_edges 2  --g 2048 --w 2048 --num_reference -35 --num_honest_client 143 --attack target_attack --alpha 0.05 --num_local_update 100
-To run backdoor attack:
+##To run label flipping attack:
+python Hier-Local-QSGD.py --dataset cifar10 --num_communication 100 --model cnn_complex --num_clients 150 --num_edges 2  --g 2048 --w 2048 --num_reference -35 --num_honest_client 143 --attack target_attack --alpha 0.05
+##To run backdoor attack:
 python Hier-Local-QSGD.py --dataset cifar10 --num_communication 100 --model cnn_complex --num_clients 150 --num_edges 2  --g 2048 --w 2048 --num_reference -35 --num_honest_client 135 --attack backdoor_attack --alpha 1
 
-
+---
 
 
 ## Acknowledgements
