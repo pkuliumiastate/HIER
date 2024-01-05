@@ -1,7 +1,7 @@
 # Distributed and Privacy-Preserving Mitigation of Poisoning Attacks in Three-Tier Federated Learning Systems
 
 Code for Paper ["Distributed and Privacy-Preserving Mitigation of Poisoning
-Attacks in Three-Tier Federated Learning Systems")
+Attacks in Three-Tier Federated Learning Systems"]
 
 
 ---
