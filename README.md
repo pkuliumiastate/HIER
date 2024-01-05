@@ -21,4 +21,4 @@ python Hier-Local-QSGD.py --dataset cifar10 --num_communication 100 --model cnn_
 
 
 ## Acknowledgements
-As this code is reproduced based on the open-sourced code [Hierarchical Federated Learning With Quantization: Convergence Analysis and System Design]([https://github.com/csdongxian/ANP_backdoor](https://github.com/LuminLiu/Hier_QSGD)) and [Client-Edge-Cloud Hierarchical Federated Learning]([https://github.com/HanxunH/CognitiveDistillation](https://github.com/LuminLiu/HierFL)), the authors would like to thank their contribution. 
+As this code is reproduced based on the open-sourced code [Hierarchical Federated Learning With Quantization: Convergence Analysis and System Design](https://github.com/LuminLiu/Hier_QSGD) and [Client-Edge-Cloud Hierarchical Federated Learning](https://github.com/LuminLiu/HierFL), the authors would like to thank their contribution. 
